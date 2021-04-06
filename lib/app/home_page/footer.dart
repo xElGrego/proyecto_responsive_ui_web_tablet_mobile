@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:proyecto_responsive_ui_web_tablet_mobile/app/widgets/home_page/navitembar.dart';
+import 'package:proyecto_responsive_ui_web_tablet_mobile/app/home_page/navitembar.dart';
 
 class Footer extends StatelessWidget {
   @override

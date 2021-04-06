@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:proyecto_responsive_ui_web_tablet_mobile/app/widgets/home_page/navBar.dart';
+import 'package:proyecto_responsive_ui_web_tablet_mobile/app/home_page/navBar.dart';
 
 class Header extends StatelessWidget {
   const Header({

@@ -19,7 +19,6 @@ class NavBar extends StatelessWidget {
           style: TextStyle(
             color: kTextColor,
             fontWeight: FontWeight.w300,
-        
           ),
         ),
       ),
